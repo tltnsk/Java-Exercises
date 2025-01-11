@@ -1,5 +1,3 @@
-package mk.ukim.finki.oldestperson;
-
 import java.io.*;
 import java.util.Comparator;
 import java.util.stream.Stream;
