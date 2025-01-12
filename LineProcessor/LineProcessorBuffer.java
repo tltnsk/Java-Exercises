@@ -1,5 +1,3 @@
-package av6.problem1;
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Comparator;
