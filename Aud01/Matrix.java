@@ -1,5 +1,3 @@
-package ana.finki.aud01;
-
 public class Matrix {
     public static double sum(double[][] matrix) {
         double sum = 0;
