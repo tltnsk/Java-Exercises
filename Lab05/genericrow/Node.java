@@ -4,9 +4,9 @@ public class Node<T> {
     private final T element;
     private Node<T> next;
 
-    public Node(T element, Node<T> next) {
+    public Node(T element) {
         this.element = element;
-        this.next = next;
+        this.next = null;
     }
 
     public T getElement() {
